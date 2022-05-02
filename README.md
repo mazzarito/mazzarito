@@ -7,7 +7,7 @@
 
 ## PHP
 ### PIM
-* Pimcored
+* [Pimcore](https://pimcore.com/en) - [docs](https://pimcore.com/docs/pimcore/current/index.html)
 * **[Akeneo](https://akeneo.com/)** - [docs](https://docs.akeneo.com/master) - [install](https://docs.akeneo.com/master/install_pim/manual/installation_ce.html)
 
 ## Node.js
