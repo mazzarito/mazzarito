@@ -20,7 +20,7 @@
 * [Vue.js](https://vuejs.org/)
 * [React](https://reactjs.org/)
 * [Backbone.js](http://backbonejs.org/)
-* d
+
 <!--
 **mazzarito/mazzarito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
